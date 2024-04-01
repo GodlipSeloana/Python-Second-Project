@@ -1,6 +1,6 @@
 # Car Sales Regression Analysis Insights
 
-Regression Analysis between Salling price and Condition
+Regression Analysis between Salling price and Car Condition
 
 1. R-square (0.129) is greater than F-statistic (0.000825) thus the overall model is
 statistically significant.
